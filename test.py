@@ -1,2 +1,6 @@
-print("hello")
+if True:
+    print("nothing")
+else:
+    print("something")
+    
 
